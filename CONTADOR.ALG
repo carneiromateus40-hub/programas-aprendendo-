@@ -1,7 +1,9 @@
 Algoritmo "contador"
-// Disciplina   : [Linguagem e LÛgica de ProgramaÁ„o]
+// copyright (c) 2026 carneiromateus40-hub
+// este programa √© software livre sob os termos da licen√ßa GNU GPLv3.
+// Disciplina   : [Linguagem e L√≥gica de Programa√ß√£o]
 // Professor   : gustavo guanabara
-// DescriÁ„o   : conta atÈ o numero escolhido
+// Descri√ß√£o   : conta at√© o numero escolhido
 // Autor(a)    : mateus
 // Data atual  : 03/07/2026
 Var
@@ -9,7 +11,7 @@ Var
 
 
 Inicio
-     escreval ("atÈ quanto quer que eu conte? ")
+     escreval ("at√© quanto quer que eu conte? ")
      leia (limite)
      se contador <= limite entao
      enquanto (contador <= limite) faca
